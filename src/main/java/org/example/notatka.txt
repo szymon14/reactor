@@ -1,0 +1,5 @@
+1.dlaczego programowanie reactive nie blokuje watkow, 
+2.jak działa http2,  
+3.czym jest java.nio
+4.r2dbc
+5. W jaki sposób zapytać się api restfullowego, aby odezwać się w sposób reaktywny
